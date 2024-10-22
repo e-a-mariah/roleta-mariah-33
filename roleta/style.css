@@ -1,8 +1,8 @@
 
 
 body {
-    background-color: black;
-    color: white;
+    background-color:var(black);
+    color:var(white);
     font-family: var(--font);
     height: 100vh;
     margin: 0;
